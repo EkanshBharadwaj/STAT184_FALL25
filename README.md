@@ -17,9 +17,10 @@ devtools::install_github("mdbeckman/dcData")
 ```
 
 ## Current Plan
-
+- Contact Teammates and discuss project
 ## Repository Organization
-
+- Activity_14.qmd file will be found in Code Files Folder
+- Activity_14.pdf file will be found in Output Files Folder
 ## Contact information
 Author: Ekansh Bharadwaj
 
